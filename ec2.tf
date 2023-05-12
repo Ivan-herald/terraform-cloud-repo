@@ -6,6 +6,6 @@
               ami           = "ami-0b08bfc6ff7069aff"
             instance_type = "t2.micro"
             tags = {
-              Name = "terraform-ec2"
+              Name = "terraform-ec2-fromcloud"
             }
             }
